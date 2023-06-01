@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+form{
+  display: flex;
+  flex-direction: column;
+  
+}
+input{
+  margin: 10px;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
